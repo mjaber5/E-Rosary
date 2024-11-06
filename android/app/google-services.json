@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043899488521",
+    "project_id": "e-rosary",
+    "storage_bucket": "e-rosary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043899488521:android:f25d1d94a554ee4c2cdbd8",
+        "android_client_info": {
+          "package_name": "com.example.e_osary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHX4M3q77xC7-cElqMCThjKB2JBF0Ue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
